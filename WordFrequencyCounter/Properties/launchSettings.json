@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "WordFrequencyCounter": {
+      "commandName": "Project",
+      "commandLineArgs": "input.txt output.txt",
+      "workingDirectory": "D:\\software\\code\\BroadridgeTest\\WordFrequencyCounter"
+    }
+  }
+}
