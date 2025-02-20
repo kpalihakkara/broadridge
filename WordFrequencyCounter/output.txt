@@ -1,8 +1,0 @@
-the,54
-dog,45
-lazy,45
-over,45
-jumped,36
-brown,27
-fox,27
-quick,18
